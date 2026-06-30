@@ -1,16 +1,13 @@
-## Hi there 👋
+**Master of Science in Data Analytics** - NEXFORD University (Distinction, 2025)
 
-<!--
-**Fisayo-Ajayi/Fisayo-Ajayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CompTIA Data+** — CompTIA (2026)
 
-Here are some ideas to get you started:
+**Canvas Data Science for Decision Making** - NEXFORD UNIVERSITY (2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Corporate Sustainability** - NEXFORD UNIVERSITY (2025)
+
+**IBM Data Analytics with Python** - IBM (2024)
+
+**DATA SCIENCE** - UTIVA (2022) 
+
+**Bachelor of Science in Mechanical Engineering** - Federal University of Technology, Akure (2018)
