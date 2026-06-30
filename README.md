@@ -1,3 +1,4 @@
+##Education
 **Master of Science in Data Analytics** - NEXFORD University (Distinction, 2025)
 
 **CompTIA Data+** — CompTIA (2026)
